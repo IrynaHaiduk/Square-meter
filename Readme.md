@@ -2,7 +2,7 @@
 
 Интернет-магазин для выбора квартир.
 
-Ссылка на проект: https://haiduk2019.github.io/Square-meter/build/index.html
+Ссылка на проект: https://haiduk2019.github.io/Square-meter/dist/index.html
 
 Скопировать проект:
 
