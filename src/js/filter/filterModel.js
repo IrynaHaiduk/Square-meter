@@ -30,7 +30,7 @@ export default class Filter {
     async getResults() {
         try {
             //Адрес строки, по которой будет происходить запрос + сформированная строка по определенным параметрам запроса
-            const queryString = `http://jsproject.webcademy.ru/items${this.query}`;
+            const queryString = `https://jsproject.webcademy.ru/items${this.query}`;
 
             const response = await fetch(queryString);
 
